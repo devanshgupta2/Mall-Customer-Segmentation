@@ -32,7 +32,11 @@ Divide your mall target market into approachable groups. Create subsets of a mar
 # Analysis
  ### Tareget Cluster
  1. Target group would be cluster 1 which has a high Spending Score and high income
+
+    
  2. 60% of cluster 1 shoppers are woman. We should look for ways to attract these customers using a marketing campaign targeting popular items in this cluster
+
+   
  3. Cluster 2 presents an intersting opportunity to market to the customers for sales event on popular items.
 
 ![clustering_bivaraiate](https://github.com/user-attachments/assets/056da003-7e89-4853-bcff-9f59392fad13)
